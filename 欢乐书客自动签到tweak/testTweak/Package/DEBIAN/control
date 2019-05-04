@@ -1,0 +1,17 @@
+Package: happybookautosign.tweak
+Name: happybookAutoSign
+Version: 0.1-1
+Description: 欢乐书客自动签到插件
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: FireKey
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: FireKey
+Icon: 
+
